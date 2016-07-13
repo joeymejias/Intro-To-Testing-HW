@@ -1,0 +1,48 @@
+Requirements
+
+Select an app you use (e.g. Facebook)
+Choose three features of the app to write test cases for
+Create six conditionals per test case - all of the conditions must be true in order for the feature to be considered "implemented" (see the example in the lesson)
+Create user stories for each conditional
+Bonus:
+
+Add more test cases and conditionals
+
+Test Case Features
+- Friend List
+- Messages
+- Wall Posts
+- Like Pages
+
+Test Cases
+- Friend List
+-- As a user, I should be able to access my friend list
+-- As a user, I should be able to view my friends first and last name
+-- As a user, I should be able to view all of my friends in my friend list
+-- As a user, I should be able to visit my friend's profile from my friend list
+-- As a user, I should see newly added friends in my friend list
+-- As a user, unfriended friends should not appear in my friend list
+
+- Messages
+-- As a user, I should be able to access my messages
+-- As a user, I should be able to send my friends private messages
+-- As a user, I should be able to send multiple friends private messages
+-- As a user, I should be able to delete messages
+-- As a user, I should not be able to view messages from other users that have been blocked
+-- As a user, I should be able to leave a message conversation
+
+-Wall Posts
+-- As a user, I should be able to view my posts on my wall
+-- As a user, I should be able to view friends posts on my wall
+-- As a user, I should be able to delete my posts from my wall
+-- As a user, I should be able to delete my friends posts from my wall
+-- As a user, I should be able to restrict who posts to my wall
+-- As a user, I should be able to post on my friend's wall given I have permission to do so
+
+-Like Pages
+-- As a user, I should be able to like pages
+-- As a user, I should be able to create a like page
+-- As a user, others should be able to like the like page I created
+-- As a user, I should be able to delete a like page I created
+-- As a user, I should be able to edit the details of a like page I created
+-- As a user, I should be able to view analytics for my like page
